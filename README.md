@@ -2,25 +2,42 @@
 iOS games source code Objective-C
 
 
-2048
-https://github.com/austinzheng/iOS-2048
+* 2048  
+[https://github.com/austinzheng/iOS-2048](https://github.com/austinzheng/iOS-2048)
 
-Bat Loves Bugs: Eat as many bugs as you can catch
-https://github.com/xyclos/BatLovesBugs
+* Bat Loves Bugs: Eat as many bugs as you can catch  
+[https://github.com/xyclos/BatLovesBugs](https://github.com/xyclos/BatLovesBugs)
 
-Chuck: Throw a ball and catch it, over and over and over
-https://github.com/moowahaha/Chuck
+* Chuck: Throw a ball and catch it, over and over and over  
+[https://github.com/moowahaha/Chuck](https://github.com/moowahaha/Chuck)
 
-Conway's Game of Life (Vie)
-https://github.com/fabienwarniez/Vie
+* Conway's Game of Life (Vie)  
+[https://github.com/fabienwarniez/Vie](https://github.com/fabienwarniez/Vie)
 
-Doom Classic
-https://github.com/id-Software/DOOM-iOS
+* Doom Classic  
+[https://github.com/id-Software/DOOM-iOS](https://github.com/id-Software/DOOM-iOS)
 
-DOOM Classic 2
-https://github.com/id-Software/DOOM-IOS2
+* DOOM Classic 2  
+[https://github.com/id-Software/DOOM-IOS2](https://github.com/id-Software/DOOM-IOS2)
 
-DropColour: Drag & drop one circle onto another of the same color
-https://github.com/elpassion/DropColour-iOS
-![DropColour](https://camo.githubusercontent.com/325a0d58c8f3cff24049ed39b95d914abd2613f9/687474703a2f2f61322e6d7a7374617469632e636f6d2f75732f7233302f507572706c6536302f76342f37662f35302f35612f37663530356164392d623036352d653865332d366665322d3664383631306331336661372f73637265656e363936783639362e6a706567 "DropColour: Drag & drop one circle onto another of the same color")
+* Scary Flight - FlappyBird clone  
+[https://github.com/EvgenyKarkan/ScaryFlight](https://github.com/EvgenyKarkan/ScaryFlight)
+
+* Frogatto & Friends: Action-adventure game, starring a certain quixotic frog  
+[https://github.com/frogatto/frogatto](https://github.com/frogatto/frogatto)
+
+* PokéMon-like game that uses your location  
+[https://github.com/Kjuly/iPokeMon](https://github.com/Kjuly/iPokeMon)
+
+* Pterodactyl Attack: Blast your way through waves of pterodactyls, includes detailed writeup on how it's made  
+[https://github.com/shaunlebron/PterodactylAttack](https://github.com/shaunlebron/PterodactylAttack)
+
+* SHMUP: 3D multiplatform game written primarily in C  
+[https://github.com/fabiensanglard/Shmup](https://github.com/fabiensanglard/Shmup)
+
+* Skeleton Key: A puzzle game where you must shift keys around a board to unlock treasure chests  
+[https://github.com/insurgentgames/Skeleton-Key-iOS](https://github.com/insurgentgames/Skeleton-Key-iOS)
+
+* Wolfenstein 3D: Wolfenstein 3D for iOS  
+[https://github.com/id-Software/Wolf3D-iOS](https://github.com/id-Software/Wolf3D-iOS)
 
